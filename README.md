@@ -1,5 +1,3 @@
-# linux_com
-
 ## Creating Directory without Sudo 
 ![](./mkir_-sudo.png)
 

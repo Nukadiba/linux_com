@@ -25,3 +25,11 @@
 Nano Saving
 
 ![](./nano%20saving.png)
+
+
+
+
+
+# Vim vs Nano
+
+![](./vimvsNano.png)
